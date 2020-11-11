@@ -51,10 +51,10 @@ public class Ex05 {
 		
 		System.out.println("깃 허브 테스트 문장");
 		System.out.println("깃 허브 테스트 문장");
-		
-		
-		
-		
+		System.out.println("깃 허브 테스트 문장");
+		System.out.println("깃 허브 테스트 문장");
+		System.out.println("깃 허브 테스트 문장");
+		System.out.println("깃 허브 테스트 문장");
 		
 		sc.close();
 		
