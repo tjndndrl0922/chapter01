@@ -49,6 +49,8 @@ public class Ex05 {
 		
 		System.out.println("당신의 나이는 " +age+ " 키는" +tall+ " 이름은 " +name+ " 입니다.");
 		
+		System.out.println("깃 허브 테스트 문장");
+		System.out.println("깃 허브 테스트 문장");
 		
 		
 		
